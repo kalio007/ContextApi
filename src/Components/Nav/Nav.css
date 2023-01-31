@@ -1,0 +1,17 @@
+.navbar{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+}
+.navbar_name{
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.navbar_movies{
+    margin: 10px;
+    justify-content: flex-end;
+    align-items: center;
+}

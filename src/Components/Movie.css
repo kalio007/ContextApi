@@ -1,0 +1,13 @@
+.movie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.movie_name{
+    justify-content: center;
+    margin: 0;
+}
+.movie_price{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
